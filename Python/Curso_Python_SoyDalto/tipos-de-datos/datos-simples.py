@@ -1,22 +1,22 @@
 # string (str)
-"string"
-'string'
+cadena_de_comillas_dobles = "string"
+cadena_de_comillas_simples = 'string'
 
-"""tus datos son:
+cadena_de_comillas_triples = """tus datos son:
         nombre: lucas
         apellido: dalto"""
         
-'''tus datos son:
+cadena_de_comillas_simples_triples = '''tus datos son:
         nombre: lucas
         apellido: dalto'''
         
 
 # enteros (int)
-40
+print(40) # 40
 
 # flotantes (float)
-40.2
+print(40.2) # 40.2
 
 # booleanos (bool)
-True
-False
+print(True) # True
+print(False) # False
