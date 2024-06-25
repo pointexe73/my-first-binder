@@ -2,13 +2,13 @@
 cadena_de_comillas_dobles = "string"
 cadena_de_comillas_simples = 'string'
 
-cadena_de_comillas_triples = """tus datos son:
-        nombre: lucas
-        apellido: dalto"""
+cadena_de_comillas_dobles_triples = """tus datos son:
+                                           nombre: lucas
+                                           apellido: dalto"""
         
 cadena_de_comillas_simples_triples = '''tus datos son:
-        nombre: lucas
-        apellido: dalto'''
+                                            nombre: lucas
+                                            apellido: dalto'''
         
 
 # enteros (int)
