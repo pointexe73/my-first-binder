@@ -1,0 +1,1 @@
+Minuto_del_curso = 1,13,36
