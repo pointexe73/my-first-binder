@@ -1,4 +1,5 @@
 # STRINGS
+
 # string (str)
 cadena_de_comillas_dobles = "string"
 cadena_de_comillas_simples = 'string'
