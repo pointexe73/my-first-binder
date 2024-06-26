@@ -1,3 +1,4 @@
+# VARIABLES
 
 # Definiendo una variable con camelCase
 nombreCompletoDeTuTioMaster = "Lucas Dalto"

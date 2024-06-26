@@ -1,4 +1,4 @@
-
+# LISTAS, TUPLAS, CONJUNTOS, DICCIONARIOS
 # listas (list) 
 lista = ["Lucas Dalto", "Soy Dalto", True, 185] # se puede modificar
 
