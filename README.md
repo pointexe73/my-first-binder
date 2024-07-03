@@ -1,1 +1,2 @@
-# PYTHON 3
+minutos de curso
+# 2:30:14
