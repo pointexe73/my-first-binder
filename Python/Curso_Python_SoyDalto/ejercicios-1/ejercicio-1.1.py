@@ -16,7 +16,7 @@ diferencia_con_max = 100 - dalto_curso * 1000 // otros_cursos_max / 10
 diferencia_con_promedio = 100 - dalto_curso / otros_cursos_promedio * 100
 
 # calculando el porcentaje de tiempo vacio removido
-tiempo_vacio_promedio = 100 - otros_cursos_promedio + 1000 // crudo_promedio / 10
+tiempo_vacio_promedio = 100 - otros_cursos_promedio * 1000 // crudo_promedio / 10
 tiempo_vacio_dalto = 100 - dalto_curso * 1000 // crudo_dalto / 10
 
 
@@ -27,5 +27,6 @@ print(f'EL curso de Dalto dura un {diferencia_con_max}% menos que el más lento'
 print(f'EL curso de Dalto dura un {diferencia_con_promedio}% menos que el promedio')
 
 # mostrando la cantidad de espacios vacios que se remueven (ejercicio B)
-print(f'')
+print(f'Un curso promedio elimina un {tiempo_vacio_promedio}% de tiempo vacio')
+print(f'Este curso elimino el {tiempo_vacio_dalto}% de tiempo vacio')
 
