@@ -1,2 +1,3 @@
 minutos de curso
-# 3.06.56
+# 3.24.29
+## Dicts 2.0

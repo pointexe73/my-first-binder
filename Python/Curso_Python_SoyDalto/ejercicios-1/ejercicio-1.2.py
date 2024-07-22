@@ -1,3 +1,5 @@
+# EJERCICIO 1.2
+
 # Codigo que calcula cuanto tardarias en decir una frase si tuvieras que decirla
 
 # Solicita la frase al usuario
