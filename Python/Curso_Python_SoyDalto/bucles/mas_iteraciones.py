@@ -3,6 +3,7 @@
 # Lista de frutas
 frutas = ["banana", "manzana", "ciruela", "pera", "naranja", "granada", "durazno"]
 cadena = "Hola soy Luis"
+numero = [2,5,8,10]
 
 # Iterar sobre cada fruta
 for fruta in frutas:
@@ -29,3 +30,7 @@ print('Fin del programa 2 \n')
 # Iterar sobre cada letra en la cadena "HolasoyDalto"
 for letra in cadena:
     print(letra)
+    
+# For en solo una linea 
+numero_duplicados = [x*2 for x in numero]
+print(numero_duplicados)
