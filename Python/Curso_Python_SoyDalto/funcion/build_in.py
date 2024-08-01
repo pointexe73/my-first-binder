@@ -14,7 +14,8 @@ numero_mas_bajo = min(numeros)
 print(f'El numero mas bajo es: {numero_mas_bajo}')
 
 # Redondeando decimales
-numero = round(12.345678,3) # Primer valor es el numero a redondear, el segundo es el numero de decimales a los que se quiere redondear
+numero = round(12.345678,3) # Primer valor es el numero a redondear,
+# el segundo es el numero de decimales a los que se quiere redondear
 # Imprime (12.346)
 print(f'Redondeo a 3 cifras: {numero}')
 
@@ -24,12 +25,13 @@ resultado = bool(0) # Retorna False si el valor esta vacio o es 0 o nada
 print(f'Retorna False: {resultado}') # Si el valor diferente devuelve True
 
 # Retorna True si todos los valores son verdaderos
-resultado = all([1, True, [12, 34, 56]]) # Retorna True si todos los valores son verdaderos, si uno es falso devuelve False
+resultado = all([1, True, [12, 34, 56]]) # Retorna True si todos los valores son verdaderos,
+# si uno es falso devuelve False
 # Imprime True
 print(f'Retorna True si todos los valores son verdaderos: {resultado}') # Si el valor diferente devuelve False.
 
 # Suma todos los valores de un iterable
 suma_total = sum(numeros) # Suma todos los valores de un iterable
 # Imprime 79
-print(f'Suma todos los valores de un iterable: {suma_total}') # Todos los valores de la cadena tienen que ser numero si hay otro valor da un expeccion
-
+print(f'Suma todos los valores de un iterable: {suma_total}') # Todos los valores de la cadena tienen que ser-
+# numero si hay otro valor da un expeccion
