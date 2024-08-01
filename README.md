@@ -1,4 +1,4 @@
 # Creando Funciones
 ## Hora = 4
-## Minutos = 17
-## Segundos = 54
+## Minutos = 37
+## Segundos = 30
