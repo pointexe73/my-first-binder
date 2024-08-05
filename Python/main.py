@@ -47,5 +47,5 @@ def animate(frame):
 # Run the animation
 ani = animation.FuncAnimation(fig, animate, frames=100, interval=100, blit=True)
 
-# Show the animation
+# Show the animatio
 plt.show()
