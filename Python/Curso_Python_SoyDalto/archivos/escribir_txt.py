@@ -1,4 +1,4 @@
-with open("archivos\\nu.txt","w", encoding="UTF-8") as archivo:
+with open("C:/Users/2024/Desktop/my-first-binder/Python/Curso_Python_SoyDalto/archivos/nu.txt","w", encoding="UTF-8") as archivo:
     # Sobreescribir el archivo con la nueva información
     archivo.write("Hola mundo")
     

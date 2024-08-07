@@ -1,4 +1,4 @@
-with open("archivos\\nu.txt","a", encoding="UTF-8") as archivo:
+with open("C:/Users/2024/Desktop/my-first-binder/Python/Curso_Python_SoyDalto/archivos/nu.txt","a", encoding="UTF-8") as archivo:
     # Usando un bucle para agregar varias linea 
     archivo.write("\n")
     for i in range(5): 

@@ -1,6 +1,6 @@
 
 # usando open para abrir un archivo con una codificacion universal (UTF-8)
-archivo = open("archivos\\nu.txt", encoding="UTF-8")
+archivo = open("C:/Users/2024/Desktop/my-first-binder/Python/Curso_Python_SoyDalto/archivos/nu.txt", encoding="UTF-8")
 
 # Leer archivo completo
 archivo = archivo.read()
