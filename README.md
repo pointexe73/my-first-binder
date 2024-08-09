@@ -1,4 +1,4 @@
-# ARCHIVOS CSV FILES
+# TRABAJANDO CON ARCHIVOS - WORKING WITH FILES
 ## Hora = 6
-## Minutos = 25
-## Segundos = 54
+## Minutos = 43
+## Segundos = 03
