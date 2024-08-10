@@ -1,4 +1,4 @@
-# TRABAJANDO CON ARCHIVOS - WORKING WITH FILES
-## Hora = 6
-## Minutos = 43
-## Segundos = 03
+# Excepciones 
+## Hora = 7
+## Minutos = 20
+## Segundos = 45
