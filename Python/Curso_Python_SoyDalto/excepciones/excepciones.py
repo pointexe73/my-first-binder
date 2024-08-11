@@ -3,8 +3,8 @@ def sumar_dos():
     # Iniciando un bucle
     while True:
         # Pidiendo numeros
-        num1 = input("Ingrese el primer numero: ")
-        num2 = input("Ingrese el segundo numero: ")
+        num1 = input("Numero 1: ")
+        num2 = input("Numero 2: ")
         # Intentando convertirlos a enteros y sumarlos
         try:
             resultado = int(num1) + int(num2)
@@ -14,7 +14,7 @@ def sumar_dos():
         else:
             break
         finally:
-            print("Siempre se ejecuta, no importa si hubo error o no")
+            print("Manejo de excepcion finalizado")
         
     # Imprimiendo el resultado
     return resultado
