@@ -1,4 +1,4 @@
-# Excepciones 
+# Excepciones Regulares 
 ## Hora = 7
-## Minutos = 20
-## Segundos = 45
+## Minutos = 28
+## Segundos = 15
