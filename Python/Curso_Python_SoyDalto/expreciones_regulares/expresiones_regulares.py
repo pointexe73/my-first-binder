@@ -36,8 +36,22 @@ resultado = re.findall(r"\n",texto)
 # \ -> Cancelar caracteres especiales, cancelando la funcion del punto y buscando puntos
 resultado = re.findall(r"\.",texto)
 
+# Armando una cadena que busque un numero, seguido de un punto y un espacio
+resultado = re.findall(r"\d\.\s",texto)
 
+#^ Busca el principio de una linea
+resultado = re.findall(r"^",texto)
 
+#$ Busca el final de una linea
+resultado = re.findall(r"$",texto)
 
+# {n} -> Busca n cantidad de veces el valor de la izquierda
+resultado = re.findall(r"\d{4}",texto)
+
+# {n,m} -> Busca al menos n, y como maximo m cantidad de veces el valor de la izquierda
+resultado = re.findall(r"\d{1,4}",texto)
+
+# | -> Busca una cosa o la otra
+resultado = re.findall(r"\d{1,4}|Hola",texto)
 
 print(resultado)
